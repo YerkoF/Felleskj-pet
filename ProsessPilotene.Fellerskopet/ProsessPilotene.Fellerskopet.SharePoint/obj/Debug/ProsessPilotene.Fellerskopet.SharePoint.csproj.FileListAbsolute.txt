@@ -85,3 +85,4 @@ C:\GitYF\Felleskopet\ProsessPilotene.Fellerskopet\ProsessPilotene.Fellerskopet.S
 C:\GitYF\Felleskopet\ProsessPilotene.Fellerskopet\ProsessPilotene.Fellerskopet.SharePoint\obj\Debug\ProsessPilotene.Fellerskopet.SharePoint.pdb
 C:\GitYF\Felleskopet\ProsessPilotene.Fellerskopet\ProsessPilotene.Fellerskopet.SharePoint\bin\Debug\Microsoft.SharePoint.Client.dll
 C:\GitYF\Felleskopet\ProsessPilotene.Fellerskopet\ProsessPilotene.Fellerskopet.SharePoint\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+C:\GitYF\Felleskopet\ProsessPilotene.Fellerskopet\ProsessPilotene.Fellerskopet.SharePoint\obj\Debug\ProsessPilotene.Fellerskopet.SharePoint.csprojResolveAssemblyReference.cache

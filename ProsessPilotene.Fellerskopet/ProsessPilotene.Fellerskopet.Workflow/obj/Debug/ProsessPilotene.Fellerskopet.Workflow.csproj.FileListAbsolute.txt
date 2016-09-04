@@ -21,3 +21,4 @@ C:\GitYF\Felleskopet\ProsessPilotene.Fellerskopet\ProsessPilotene.Fellerskopet.W
 C:\GitYF\Felleskopet\ProsessPilotene.Fellerskopet\ProsessPilotene.Fellerskopet.Workflow\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
 C:\GitYF\Felleskopet\ProsessPilotene.Fellerskopet\ProsessPilotene.Fellerskopet.Workflow\obj\Debug\ProsessPilotene.Fellerskopet.Workflow.dll
 C:\GitYF\Felleskopet\ProsessPilotene.Fellerskopet\ProsessPilotene.Fellerskopet.Workflow\obj\Debug\ProsessPilotene.Fellerskopet.Workflow.pdb
+C:\GitYF\Felleskopet\ProsessPilotene.Fellerskopet\ProsessPilotene.Fellerskopet.Workflow\obj\Debug\ProsessPilotene.Fellerskopet.Workflow.csprojResolveAssemblyReference.cache

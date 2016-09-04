@@ -15,3 +15,4 @@ C:\GitYF\Felleskopet\ProsessPilotene.Fellerskopet\ProsessPilotene.Fellerskopet\b
 C:\GitYF\Felleskopet\ProsessPilotene.Fellerskopet\ProsessPilotene.Fellerskopet\bin\Debug\Microsoft.Xrm.Sdk.Deployment.xml
 C:\GitYF\Felleskopet\ProsessPilotene.Fellerskopet\ProsessPilotene.Fellerskopet\obj\Debug\ProsessPilotene.Fellerskopet.exe
 C:\GitYF\Felleskopet\ProsessPilotene.Fellerskopet\ProsessPilotene.Fellerskopet\obj\Debug\ProsessPilotene.Fellerskopet.pdb
+C:\GitYF\Felleskopet\ProsessPilotene.Fellerskopet\ProsessPilotene.Fellerskopet\obj\Debug\ProsessPilotene.Fellerskopet.Consol.csprojResolveAssemblyReference.cache
