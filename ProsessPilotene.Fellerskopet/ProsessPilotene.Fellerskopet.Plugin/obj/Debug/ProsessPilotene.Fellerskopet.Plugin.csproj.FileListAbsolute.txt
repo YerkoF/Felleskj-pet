@@ -8,3 +8,13 @@ C:\PPGitHubSourceCode\Felleskopet\ProsessPilotene.Fellerskopet\ProsessPilotene.F
 C:\PPGitHubSourceCode\Felleskopet\ProsessPilotene.Fellerskopet\ProsessPilotene.Fellerskopet.Plugin\obj\Debug\ProsessPilotene.Fellerskopet.Plugin.csprojResolveAssemblyReference.cache
 C:\PPGitHubSourceCode\Felleskopet\ProsessPilotene.Fellerskopet\ProsessPilotene.Fellerskopet.Plugin\obj\Debug\ProsessPilotene.Fellerskopet.Plugin.dll
 C:\PPGitHubSourceCode\Felleskopet\ProsessPilotene.Fellerskopet\ProsessPilotene.Fellerskopet.Plugin\obj\Debug\ProsessPilotene.Fellerskopet.Plugin.pdb
+C:\GitYF\Felleskopet\ProsessPilotene.Fellerskopet\ProsessPilotene.Fellerskopet.Plugin\bin\Debug\ProsessPilotene.Fellerskopet.Plugin.dll
+C:\GitYF\Felleskopet\ProsessPilotene.Fellerskopet\ProsessPilotene.Fellerskopet.Plugin\bin\Debug\ProsessPilotene.Fellerskopet.Plugin.pdb
+C:\GitYF\Felleskopet\ProsessPilotene.Fellerskopet\ProsessPilotene.Fellerskopet.Plugin\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\GitYF\Felleskopet\ProsessPilotene.Fellerskopet\ProsessPilotene.Fellerskopet.Plugin\bin\Debug\Microsoft.IdentityModel.dll
+C:\GitYF\Felleskopet\ProsessPilotene.Fellerskopet\ProsessPilotene.Fellerskopet.Plugin\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\GitYF\Felleskopet\ProsessPilotene.Fellerskopet\ProsessPilotene.Fellerskopet.Plugin\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\GitYF\Felleskopet\ProsessPilotene.Fellerskopet\ProsessPilotene.Fellerskopet.Plugin\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\GitYF\Felleskopet\ProsessPilotene.Fellerskopet\ProsessPilotene.Fellerskopet.Plugin\obj\Debug\ProsessPilotene.Fellerskopet.Plugin.csprojResolveAssemblyReference.cache
+C:\GitYF\Felleskopet\ProsessPilotene.Fellerskopet\ProsessPilotene.Fellerskopet.Plugin\obj\Debug\ProsessPilotene.Fellerskopet.Plugin.dll
+C:\GitYF\Felleskopet\ProsessPilotene.Fellerskopet\ProsessPilotene.Fellerskopet.Plugin\obj\Debug\ProsessPilotene.Fellerskopet.Plugin.pdb

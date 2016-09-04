@@ -10,3 +10,15 @@ C:\PPGitHubSourceCode\Felleskopet\ProsessPilotene.Fellerskopet\ProsessPilotene.F
 C:\PPGitHubSourceCode\Felleskopet\ProsessPilotene.Fellerskopet\ProsessPilotene.Fellerskopet.Workflow\obj\Debug\ProsessPilotene.Fellerskopet.Workflow.csprojResolveAssemblyReference.cache
 C:\PPGitHubSourceCode\Felleskopet\ProsessPilotene.Fellerskopet\ProsessPilotene.Fellerskopet.Workflow\obj\Debug\ProsessPilotene.Fellerskopet.Workflow.dll
 C:\PPGitHubSourceCode\Felleskopet\ProsessPilotene.Fellerskopet\ProsessPilotene.Fellerskopet.Workflow\obj\Debug\ProsessPilotene.Fellerskopet.Workflow.pdb
+C:\GitYF\Felleskopet\ProsessPilotene.Fellerskopet\ProsessPilotene.Fellerskopet.Workflow\bin\Debug\ProsessPilotene.Fellerskopet.Workflow.dll
+C:\GitYF\Felleskopet\ProsessPilotene.Fellerskopet\ProsessPilotene.Fellerskopet.Workflow\bin\Debug\ProsessPilotene.Fellerskopet.Workflow.pdb
+C:\GitYF\Felleskopet\ProsessPilotene.Fellerskopet\ProsessPilotene.Fellerskopet.Workflow\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\GitYF\Felleskopet\ProsessPilotene.Fellerskopet\ProsessPilotene.Fellerskopet.Workflow\bin\Debug\Microsoft.IdentityModel.dll
+C:\GitYF\Felleskopet\ProsessPilotene.Fellerskopet\ProsessPilotene.Fellerskopet.Workflow\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\GitYF\Felleskopet\ProsessPilotene.Fellerskopet\ProsessPilotene.Fellerskopet.Workflow\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\GitYF\Felleskopet\ProsessPilotene.Fellerskopet\ProsessPilotene.Fellerskopet.Workflow\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\GitYF\Felleskopet\ProsessPilotene.Fellerskopet\ProsessPilotene.Fellerskopet.Workflow\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\GitYF\Felleskopet\ProsessPilotene.Fellerskopet\ProsessPilotene.Fellerskopet.Workflow\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\GitYF\Felleskopet\ProsessPilotene.Fellerskopet\ProsessPilotene.Fellerskopet.Workflow\obj\Debug\ProsessPilotene.Fellerskopet.Workflow.csprojResolveAssemblyReference.cache
+C:\GitYF\Felleskopet\ProsessPilotene.Fellerskopet\ProsessPilotene.Fellerskopet.Workflow\obj\Debug\ProsessPilotene.Fellerskopet.Workflow.dll
+C:\GitYF\Felleskopet\ProsessPilotene.Fellerskopet\ProsessPilotene.Fellerskopet.Workflow\obj\Debug\ProsessPilotene.Fellerskopet.Workflow.pdb
