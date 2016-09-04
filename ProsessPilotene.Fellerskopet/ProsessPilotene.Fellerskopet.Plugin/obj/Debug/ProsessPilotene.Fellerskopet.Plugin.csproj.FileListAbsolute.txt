@@ -1,0 +1,10 @@
+C:\PPGitHubSourceCode\Felleskopet\ProsessPilotene.Fellerskopet\ProsessPilotene.Fellerskopet.Plugin\bin\Debug\ProsessPilotene.Fellerskopet.Plugin.dll
+C:\PPGitHubSourceCode\Felleskopet\ProsessPilotene.Fellerskopet\ProsessPilotene.Fellerskopet.Plugin\bin\Debug\ProsessPilotene.Fellerskopet.Plugin.pdb
+C:\PPGitHubSourceCode\Felleskopet\ProsessPilotene.Fellerskopet\ProsessPilotene.Fellerskopet.Plugin\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\PPGitHubSourceCode\Felleskopet\ProsessPilotene.Fellerskopet\ProsessPilotene.Fellerskopet.Plugin\bin\Debug\Microsoft.IdentityModel.dll
+C:\PPGitHubSourceCode\Felleskopet\ProsessPilotene.Fellerskopet\ProsessPilotene.Fellerskopet.Plugin\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\PPGitHubSourceCode\Felleskopet\ProsessPilotene.Fellerskopet\ProsessPilotene.Fellerskopet.Plugin\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\PPGitHubSourceCode\Felleskopet\ProsessPilotene.Fellerskopet\ProsessPilotene.Fellerskopet.Plugin\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\PPGitHubSourceCode\Felleskopet\ProsessPilotene.Fellerskopet\ProsessPilotene.Fellerskopet.Plugin\obj\Debug\ProsessPilotene.Fellerskopet.Plugin.csprojResolveAssemblyReference.cache
+C:\PPGitHubSourceCode\Felleskopet\ProsessPilotene.Fellerskopet\ProsessPilotene.Fellerskopet.Plugin\obj\Debug\ProsessPilotene.Fellerskopet.Plugin.dll
+C:\PPGitHubSourceCode\Felleskopet\ProsessPilotene.Fellerskopet\ProsessPilotene.Fellerskopet.Plugin\obj\Debug\ProsessPilotene.Fellerskopet.Plugin.pdb

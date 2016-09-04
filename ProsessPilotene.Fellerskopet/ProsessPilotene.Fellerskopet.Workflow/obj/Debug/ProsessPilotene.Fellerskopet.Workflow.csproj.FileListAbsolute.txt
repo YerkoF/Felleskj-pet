@@ -1,0 +1,12 @@
+C:\PPGitHubSourceCode\Felleskopet\ProsessPilotene.Fellerskopet\ProsessPilotene.Fellerskopet.Workflow\bin\Debug\ProsessPilotene.Fellerskopet.Workflow.dll
+C:\PPGitHubSourceCode\Felleskopet\ProsessPilotene.Fellerskopet\ProsessPilotene.Fellerskopet.Workflow\bin\Debug\ProsessPilotene.Fellerskopet.Workflow.pdb
+C:\PPGitHubSourceCode\Felleskopet\ProsessPilotene.Fellerskopet\ProsessPilotene.Fellerskopet.Workflow\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\PPGitHubSourceCode\Felleskopet\ProsessPilotene.Fellerskopet\ProsessPilotene.Fellerskopet.Workflow\bin\Debug\Microsoft.IdentityModel.dll
+C:\PPGitHubSourceCode\Felleskopet\ProsessPilotene.Fellerskopet\ProsessPilotene.Fellerskopet.Workflow\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\PPGitHubSourceCode\Felleskopet\ProsessPilotene.Fellerskopet\ProsessPilotene.Fellerskopet.Workflow\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\PPGitHubSourceCode\Felleskopet\ProsessPilotene.Fellerskopet\ProsessPilotene.Fellerskopet.Workflow\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\PPGitHubSourceCode\Felleskopet\ProsessPilotene.Fellerskopet\ProsessPilotene.Fellerskopet.Workflow\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\PPGitHubSourceCode\Felleskopet\ProsessPilotene.Fellerskopet\ProsessPilotene.Fellerskopet.Workflow\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\PPGitHubSourceCode\Felleskopet\ProsessPilotene.Fellerskopet\ProsessPilotene.Fellerskopet.Workflow\obj\Debug\ProsessPilotene.Fellerskopet.Workflow.csprojResolveAssemblyReference.cache
+C:\PPGitHubSourceCode\Felleskopet\ProsessPilotene.Fellerskopet\ProsessPilotene.Fellerskopet.Workflow\obj\Debug\ProsessPilotene.Fellerskopet.Workflow.dll
+C:\PPGitHubSourceCode\Felleskopet\ProsessPilotene.Fellerskopet\ProsessPilotene.Fellerskopet.Workflow\obj\Debug\ProsessPilotene.Fellerskopet.Workflow.pdb
