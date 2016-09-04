@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProsessPilotene.Fellerskope
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProsessPilotene.Fellerskopet.Workflow", "ProsessPilotene.Fellerskopet.Workflow\ProsessPilotene.Fellerskopet.Workflow.csproj", "{2110F684-C277-47E7-B8B9-6F17A579D0CE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProsessPilotene.Fellerskopet.SharePoint", "ProsessPilotene.Fellerskopet.SharePoint\ProsessPilotene.Fellerskopet.SharePoint.csproj", "{2C986C85-89C4-4E5B-9B9A-0E7BC2D4FB81}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,12 @@ Global
 		{2110F684-C277-47E7-B8B9-6F17A579D0CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2110F684-C277-47E7-B8B9-6F17A579D0CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2110F684-C277-47E7-B8B9-6F17A579D0CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C986C85-89C4-4E5B-9B9A-0E7BC2D4FB81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C986C85-89C4-4E5B-9B9A-0E7BC2D4FB81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C986C85-89C4-4E5B-9B9A-0E7BC2D4FB81}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{2C986C85-89C4-4E5B-9B9A-0E7BC2D4FB81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C986C85-89C4-4E5B-9B9A-0E7BC2D4FB81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C986C85-89C4-4E5B-9B9A-0E7BC2D4FB81}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

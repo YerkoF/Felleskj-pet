@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="21d632ba-27fe-4df2-a05a-bd02fb6c3d31" 
+        solutionId="21d632ba-27fe-4df2-a05a-bd02fb6c3d31" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="ProsessPilotene.Fellerskopet.SharePoint"
+        sharePointProductVersion="15.0">
+</package>
